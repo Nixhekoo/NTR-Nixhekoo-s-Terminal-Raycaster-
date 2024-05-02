@@ -8,7 +8,7 @@
 </div>
 
 ## About the game
-- In this game you are placed in Ascii Raycaster. There is no goal in the game and you can't win the game. However i dont suggest going to ?<#_**W=-4000=D347H**!?[#
+- In this game you are placed in Ascii Raycaster. There is no goal in the game and you can't win the game. However i dont suggest going to ?<#_***W=-4000=D347H***!?[#
 
 ## Instructions
 - THE GAME IS WINDOWS ONLY!
