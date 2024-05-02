@@ -8,7 +8,7 @@
 
 ## Instructions
 - THE GAME IS WINDOWS ONLY!
-- Download the [NTR Release 1.10.exe](https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP/raw/main/NTR%20Release%201.15.exe)
+- Download the [NTR Release 1.15.exe](https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP/raw/main/NTR%20Release%201.15.exe)
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - Place the Game anywhere you want
