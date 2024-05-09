@@ -12,7 +12,7 @@
 
 ## Instructions
 - THE GAME IS WINDOWS ONLY!
-- Download the [NTR Release 1.75.exe](https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP/raw/main/NTR%20Release%201.75.exe) and open in **FULL SCREEN!**
+- Download the [NXHK TR Release 1.75.exe](https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP/raw/main/NXHK%20TR%20Release%201.75.exe) and open in **FULL SCREEN!**
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blcoks the file, disable antivirus or allow the file to be downloaded)*
@@ -20,7 +20,7 @@
 - Play and Enjoy!
 
 ## Source Code
-- Click on this: [NTR Release 1.75.cpp](https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP/blob/main/raycaster.cpp)
+- Click on this: [NXHK TR Release 1.75.cpp](https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP/blob/main/raycaster.cpp)
 
 ## Help = How to change Command Prompt Font Size on Windows 11
 - Step 1 - Open NTR or Any Command Prompt and click the Arrow.
